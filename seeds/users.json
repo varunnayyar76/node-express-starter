@@ -1,0 +1,70 @@
+[
+	{
+		"firstname" : "Randy",
+		"lastname"	: "Appalope",
+		"gender"	: "Male",
+		"email" : "randy@appalope.com",
+		"password": "0192023a7bbd73250516f069df18b500",
+		"user_type": "Uber Admin",
+		"__v" : 0 
+	},
+	{
+		"firstname" : "Mike",
+		"lastname"	: "Appalope",
+		"gender"	: "Male",
+		"email" : "mike@appalope.com",
+		"password": "0192023a7bbd73250516f069df18b500",
+		"user_type": "Uber Admin",
+		"__v" : 0
+	},
+	{
+		"firstname" : "Jay",
+		"lastname"	: "Appalope",
+		"email" : "jay@appalope.com",
+		"password": "0192023a7bbd73250516f069df18b500",
+		"user_type": "Sales Admin",
+		"gender"	: "Male",
+		"__v" : 0
+	},
+	{
+		"firstname" : "Randy",
+		"lastname"  : "Arrowood",
+		"email" : 	"randy.arrowood@b4cc.com", 
+		"password" 	: "e19d5cd5af0378da05f63f891c7467af", 
+		"user_type" : "provider", 
+		"gender" 	: "Male", 
+		"__v" 		: 0
+	},
+	{
+		"firstname" : "Test",
+		"lastname"	: "Patient1",
+		"email"		: "test@patient1.com",
+		"user_type"	: "patient",
+		"gender"	: "Male",
+		"__v"		:	0
+	},
+	{
+		"firstname" : "Test",
+		"lastname"	: "Patient2",
+		"email"		: "test@patient2.com",
+		"user_type"	: "patient",
+		"gender"	: "Male",
+		"__v"		:	0
+	},
+	{
+		"firstname" : "Test",
+		"lastname"	: "Patient3",
+		"email"		: "test@patient3.com",
+		"user_type"	: "patient",
+		"gender"	: "Female",
+		"__v"		:	0
+	},
+	{
+		"firstname" : "Test",
+		"lastname"	: "Patient4",
+		"email"		: "test@patient4.com",
+		"user_type"	: "patient",
+		"gender"	: "Female",
+		"__v"		:	0
+	}
+]

@@ -1,0 +1,8 @@
+{
+	"undefined": "mongodb://localhost:27017/ehrDB",
+    "docker-compose": "mongodb://mongodb:27017/ehrDB",
+    "ecs": "mongodb://mongodb.ecs.dev.b4cc.com:27017/ehrDB",
+	"development": "mongodb://localhost:27017/ehrDB",
+	"staging": "mongodb://adminUser:admin123@ec2-54-165-96-100.compute-1.amazonaws.com:27017/staging-ehrDB",
+	"production": "mongodb://clinicAdmin:clinic123@ec2-54-165-96-100.compute-1.amazonaws.com:27017/prod-ehrDB"
+}

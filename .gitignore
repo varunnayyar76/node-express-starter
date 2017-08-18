@@ -1,0 +1,8 @@
+/node_modules
+/app/npm-debug.log
+npm-debug.log
+.drone.sec.yml
+docker-compose.env
+.data
+.envfile
+.env
